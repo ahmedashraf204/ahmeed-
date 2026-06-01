@@ -1,0 +1,198 @@
+body {
+  background-color: aliceblue;
+  background-image:url( دليفريpng);
+  background-repeat:no-repeat;
+ background-size:400px ;
+}
+
+#hh {
+  color: 622B14;
+  padding:10px;
+  border-style: groove;
+  border-radius: 20px;
+  border-width:10px;
+  border-color: 622B14;
+}
+
+
+
+
+ul li ul{
+  display: block;
+}
+
+
+
+
+#gr2 {
+  background-color: goldenrod;
+  width:250px;
+}
+
+h {
+  font-weight: bold;
+}
+
+
+#gr1{
+ list-style:none ; 
+padding:0 ; 
+margin:0 ;  
+  color:   aliceblue;
+background-color:  622B14;
+}
+
+ul li {
+  display:inline-block;
+  margin:10px ;
+  font-weight:bold ;
+  
+}
+
+#hx {
+  width:600px ;
+}
+
+
+h5 {
+  color:  black;
+  background-color: burlywood ;
+  
+}
+
+#hhx{
+  background:aliceblue;
+   padding:2px;
+  color: limegreen;
+  border-radius: 30px;
+  border-color:  limegreen ;
+  float: left;
+   font-size:10px;   /*حجم الخط */
+}
+
+
+
+#hhhx{
+   padding:5px;
+  float: left;
+  border-style:groove;
+  border-color:  black;
+}
+
+
+
+body{
+
+button{
+        background: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+} 
+
+
+  
+  
+  
+  
+  
+  
+  
+
+  .logo{
+
+    width:120px;
+    border-radius:20px;
+    transition:0.4s;
+    box-shadow:0 4px 15px rgba(0,0,0,0.2);
+}
+
+.logo:hover{
+    transform:scale(1.08) rotate(2deg);
+    box-shadow:0 6px 20px rgba(0,0,0,0.3);
+} 
+    
+    
+    
+    
+    
+   
+     
+  .h0{
+    
+ background-color:  goldenrod;
+    
+    width: 300px;
+    
+  }
+  
+  
+  
+    
+  
+  
+    
+.arrow-text::after{
+  content: "↓";     /* السهم */
+  display: block;   /* يخليه تحت الكلمة */
+  margin-top: 5px;  /* مسافة بسيطة */
+  font-size: 28px;  /* حجم السهم */
+  color: crimson ;
+  
+}    
+    
+    
+    
+  
+  
+  
+  
+  
+  .arrow-text{
+  font-size: 28px;
+  font-weight:bold ;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+    color: crimson ;
+}
+  
+  
+ 
+  
+  
+  
+  
+ #hhh0{
+   
+   background-color: ;
+ } 
+  
+    
+  
+  
+  .hkk{
+    color: crimson;
+   width: 150px; 
+    
+    
+  }  
+    
+  
+  
+  
+  
+ .logo3{
+   
+ 
+    font-size:5px;
+    font-weight:bold;
+    color: aliceblue;
+ }
+  
+  #hoo{
+    
+    font-size:10px;
+    
+  }
